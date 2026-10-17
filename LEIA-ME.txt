@@ -1,0 +1,26 @@
+BIANCHI CONSULTORIA — SITE COM CONTATOS ATIVOS
+
+CONTATOS CONFIGURADOS
+WhatsApp comercial: (19) 99241-4525
+Número para link (com DDI): +5519992414525
+E-mail comercial: bianchitributario@gmail.com
+
+COMO UTILIZAR
+1. Abra BIANCHI_Site_Oficial_Contatos_Ativos.html no navegador (Chrome/Edge).
+2. Nos botões "Conversar sobre minha empresa" e "Solicitar análise", o visitante é levado ao formulário.
+3. Preencha nome, empresa, assunto e desafio, e escolha o WhatsApp ou o e-mail.
+4. O WhatsApp abre uma conversa com texto pronto. O usuário confirma o envio.
+5. O e-mail abre o aplicativo de e-mail com destinatário, assunto e mensagem; o usuário confirma o envio.
+6. Também há links diretos de WhatsApp e e-mail na seção de contato e no rodapé.
+
+OBSERVAÇÕES
+- Este site é uma página HTML estática, com o logo incorporado ao próprio arquivo.
+- Não há envio automático de e-mail em segundo plano nem registro em CRM.
+- Não há coleta de informações em banco de dados. Os dados digitados são usados para montar
+  a mensagem aberta no aplicativo do visitante, que decide enviá-la ou não.
+- Para disparo automático ou integração CRM, implemente serviço de formulários/backend,
+  permissões, medidas de segurança e privacidade/LGPD.
+- Para receber e-mails usando mailto:, o visitante precisa ter um aplicativo de e-mail
+  configurado. A alternativa é usar o WhatsApp ou copiar a mensagem.
+- Antes de publicar, ainda revise dados cadastrais oficiais e política de privacidade,
+  e configure a hospedagem desejada.
